@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610321169 source:c:\users\konstantinos\desktop\pamak\algorithms\assignments\socialfriends\socialfriendsrandomproject\socialfriends.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
